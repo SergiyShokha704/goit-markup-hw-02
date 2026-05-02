@@ -1,4 +1,4 @@
-#footer .logo {
+.footer .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -6,20 +6,20 @@
   letter-spacing: 0.03em;
   color: #4d5ae5;
 }
-#footer .logo .accent {
+.footer .logo .accent {
   color: #f4f4fd;
 }
 
-#footer .logo .accent:hover,
-#footer .logo .accent:active {
+.footer .logo .accent:hover,
+.footer .logo .accent:active {
   color: #404bbf;
 }
 
-#footer {
+.footer {
   background-color: #2e2f42;
 }
 
-#footer p {
+.footer p {
   font-family: var(--font-family), sans-serif;
   font-weight: 400;
   font-size: 16px;
