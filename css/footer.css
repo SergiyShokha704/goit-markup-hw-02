@@ -1,4 +1,4 @@
-.logo {
+#footer .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -6,24 +6,24 @@
   letter-spacing: 0.03em;
   color: #4d5ae5;
 }
-.logo .accent {
-  color: #2e2d45;
+#footer .logo .accent {
+  color: #f4f4fd;
 }
 
-.logo .accent:hover,
-active {
+#footer .logo .accent:hover,
+#footer .logo .accent:active {
   color: #404bbf;
 }
 
-.contacts a {
+#footer {
+  background-color: #2e2f42;
+}
+
+#footer p {
   font-family: var(--font-family), sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.contacts a:hover {
-  color: #404bbf;
+  color: #f4f4fd;
 }
