@@ -7,16 +7,17 @@
   color: #4d5ae5;
 }
 .logo .accent {
-  color: #2e2d45;
+  color: #2e2f42;
 }
 
 .logo .accent:hover,
-active {
+.logo .accent:active {
   color: #404bbf;
 }
 
 .contacts a {
   font-family: var(--font-family), sans-serif;
+  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -24,6 +25,7 @@ active {
   color: #434455;
 }
 
-.contacts a:hover {
+.contacts a:hover,
+.contacts a:focus {
   color: #404bbf;
 }
