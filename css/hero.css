@@ -12,7 +12,7 @@
   color: #ffffff;
 }
 
-.hero button {
+.hero-button {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -21,10 +21,10 @@
   color: #ffffff;
 }
 
-.hero button:hover {
+.hero-button:hover {
   background-color: #404bbf;
 }
 
-.hero button:focus {
+.hero-button:focus {
   background-color: #404bbf;
 }
