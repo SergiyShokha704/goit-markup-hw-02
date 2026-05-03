@@ -1,4 +1,4 @@
-h2 {
+portfolio-title {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 36px;
@@ -8,7 +8,7 @@ h2 {
   color: #2e2f42;
 }
 
-h3 {
+portfolio-item-title {
   font-family: var(--font-family);
   font-weight: 500;
   font-size: 20px;
@@ -17,7 +17,7 @@ h3 {
   color: #2e2f42;
 }
 
-p {
+portfolio-item-category {
   font-family: var(--font-family);
   font-weight: 400;
   font-size: 16px;
