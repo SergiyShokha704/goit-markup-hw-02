@@ -10,11 +10,6 @@
   color: #2e2f42;
 }
 
-.logo .accent:hover,
-.logo .accent:active {
-  color: #404bbf;
-}
-
 .contacts a {
   font-family: var(--font-family), sans-serif;
   font-style: normal;
